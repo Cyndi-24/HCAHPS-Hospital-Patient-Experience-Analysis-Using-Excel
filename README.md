@@ -75,7 +75,7 @@ The cleaned dataset was then used to create pivot tables, pivot charts, and an i
 ## ANALYSIS & VISUALIZATION
 
 The dashboard consists of two pages.
- Survey Performance Analysis 
+* Survey Performance Analysis 
 
 
 * Pattern and Response Analysis
@@ -102,3 +102,73 @@ Patients reported the largest communication gap in understanding medication side
 
 **Insight:**  
 The findings suggest that patients may need clearer information about what to expect from their medications, particularly regarding possible side effects and overall medication guidance.
+
+### 3. Is there a relationship between survey response rates and patient star ratings?
+
+**Finding:**  
+The analysis shows that facilities with higher survey response rates do not consistently record higher patient star ratings, suggesting that response participation alone does not determine patient experience performance.
+
+**Insight:**  
+Patient satisfaction appears to be influenced by factors beyond survey participation, meaning hospitals should focus on the quality of patient experiences rather than response volume alone.
+
+### 4. How are healthcare facilities distributed across different patient star rating categories?
+
+**Finding:**  
+The majority of facilities were concentrated in the middle rating categories. A total of **2,698 facilities** received a **3-star rating**, while **2,420 facilities** received a **4-star rating** and **1,881 facilities** with a **2-star rating**In comparison, fewer facilities received the highest and lowest ratings, with **1,145 facilities** receiving a **5-star rating** and **472 facilities** receiving a **1-star rating**.
+
+**Insight:**  
+Most healthcare facilities fall within the moderate-to-high patient experience rating categories, suggesting generally positive patient experiences across the dataset. However, the smaller group of lower-rated facilities may represent opportunities for targeted review and improvement.
+
+### 5. Which states demonstrate the highest patient experience ratings?
+
+**Finding:**  
+Wisconsin and South Dakota recorded the highest average patient star ratings among the states analysed, with both achieving ratings close to **4.0**. Other states, including Nebraska, Minnesota, and Idaho, also recorded relatively strong patient experience ratings.
+
+**Insight:**  
+Patient experience ratings vary across states, showing differences in reported patient satisfaction levels across locations. However, the dataset does not include additional factors needed to determine the reasons behind these differences.
+
+### 6. Which states recorded the lowest patient experience ratings?
+
+**Finding:**  
+The states and regions with the lowest average patient star ratings included **Puerto Rico, District of Columbia, and U.S. Virgin Islands**.
+
+**Insight:**  
+The variation in patient ratings across locations highlights differences in reported patient experiences. However, the available data does not provide enough information to determine the operational or demographic factors contributing to these differences.
+
+### 7. Which states recorded the highest number of completed patient surveys?
+
+**Finding:**  
+The analysis shows that survey participation varied across states, with some states recording significantly higher numbers of completed HCAHPS surveys compared with others. Larger states such as **California, Texas, and Florida** contributed some of the highest numbers of completed survey responses.
+
+**Insight:**  
+The differences in completed survey volumes reflect variation in the number of participating facilities and eligible patients across states. Survey volume provides useful context when comparing patient experience results across different locations.
+
+## RECOMMENDATIONS
+
+Based on the findings from this analysis, healthcare organisations can consider the following actions:
+
+- **Strengthen medication communication:**  
+  Since medication-related communication recorded some of the lowest patient experience scores, hospitals can focus on improving how medication information is explained to patients, particularly around medication purpose, usage, and possible side effects.
+
+- **Use patient feedback to target improvement areas:**  
+  Facilities with lower patient experience ratings can use HCAHPS results to identify specific areas where patients report challenges and develop targeted improvement efforts.
+
+- **Improve consistency of patient experience across facilities:**  
+  Differences in ratings across facilities and states highlight the need for healthcare organisations to share effective practices and promote consistent standards for patient communication and care experiences.
+
+- **Consider response rates when interpreting survey results:**  
+  Since survey participation varies across facilities, healthcare organisations should consider response rates alongside patient ratings when evaluating performance and making decisions.
+
+## LIMITATIONS
+
+This analysis is based on HCAHPS survey data, which captures patients’ reported experiences with hospital care but does not measure all aspects of healthcare quality.
+
+While the dataset provides valuable insights into patient experience patterns, it does not include additional factors such as hospital characteristics, patient demographics, staffing levels, or operational processes that may influence differences in performance across facilities and states.
+
+Therefore, the findings highlight areas of strength and potential improvement but should not be interpreted as identifying the specific causes behind patient experience differences.
+
+## CONCLUSION
+
+This analysis used HCAHPS survey data to uncover patterns in patient experience performance across healthcare facilities and states.
+
+The findings highlight areas of strong performance and opportunities for improvement, demonstrating how healthcare data can support better decisions and enhance patient experience.
