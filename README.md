@@ -22,17 +22,15 @@ This analysis was guided by the following questions:
 
 2. What factors contribute to lower medication communication performance?
 
-3. Which patient experience areas have the highest negative response rates?
+3. Is there a relationship between survey response rates and overall patient ratings?
 
-4. Is there a relationship between survey response rates and overall patient ratings?
+4. Which states demonstrate the highest patient experience ratings?
 
-5. Which states demonstrate the highest patient experience ratings?
+5. Which states have lower patient experience ratings and may require further attention?
 
-6. Which states have lower patient experience ratings and may require further attention?
+6. How are hospitals distributed across different patient star rating categories?
 
-7. How are hospitals distributed across different patient star rating categories?
-
-8. Which states have the highest number of completed patient surveys?
+7.  Which states have the highest number of completed patient surveys?
 
 
 ## DATA SOURCE
@@ -95,5 +93,12 @@ Overall patient experience performance was assessed using key measures, includin
 Nurse communication recorded the highest patient experience score, followed by doctor communication. Medication communication had the lowest score among the measured experience areas.
 
 **Insight:**  
-Patients reported stronger experiences with direct interactions with healthcare staff, while medication-related communication appears to be a weaker area of the overall patient experience.
+Patients reported stronger experiences with direct interactions with healthcare staff, while medication-related communication appears to be a weaker area of the overall patient experience. While the analysis identifies this as a weaker area, additional operational data would be needed to determine the specific causes behind this gap.
 
+### 2. What factors contribute most to medication communication gaps?
+
+**Finding:**  
+Patients reported the largest communication gap in understanding medication side effects (**30.07%**), followed by general medication explanations (**19.26%**) and medication purpose (**9.54%**).
+
+**Insight:**  
+The findings suggest that patients may need clearer information about what to expect from their medications, particularly regarding possible side effects and overall medication guidance.
