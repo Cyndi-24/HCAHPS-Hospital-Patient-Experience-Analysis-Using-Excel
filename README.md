@@ -71,15 +71,15 @@ The preparation process involved:
 
 The cleaned dataset was then used to create pivot tables, pivot charts, and an interactive Excel dashboard.
 
-## DASHBOARD DEVELOPMENT
+## ANALYSIS & VISUALIZATION
 
-After preparing the dataset, an interactive Excel dashboard was created to present key patient experience metrics and performance patterns.
+The dashboard was developed in Excel using Pivot Tables, Pivot Charts, and interactive slicers to analyse hospital patient experience performance.
 
-The dashboard was developed using Excel Pivot Tables, Pivot Charts, and interactive filtering features to allow users to explore hospital performance across different measures.
+
 
 ### Key Performance Indicators (KPIs)
 
-The dashboard includes seven key metrics:
+The dashboard provides an overview of performance through the following metrics:
 
 - Total Facilities
 - Total States
@@ -88,13 +88,3 @@ The dashboard includes seven key metrics:
 - Average Survey Response Rate
 - Total Completed Surveys
 - Experience Performance Gap
-
-### Dashboard Components
-
-The dashboard includes:
-
-- KPI summary cards for overall performance tracking.
-- Patient experience performance comparison.
-- State and facility-level rating analysis.
-- Patient experience gap analysis.
-- Survey participation and response pattern analysis.
