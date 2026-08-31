@@ -1,3 +1,4 @@
+
 # HCAHPS-Hospital-Patient-Experience-Analysis-Using-Excel
 
 ## INTRODUCTION
@@ -12,25 +13,27 @@ Healthcare organisations collect large amounts of patient experience data, but r
 
 This project focuses on analysing HCAHPS data using Microsoft Excel to identify patterns in patient ratings, survey responses, and hospital performance, helping highlight areas of strength and opportunities for improvement.
 
+
 ## BUSINESS QUESTIONS
 
 This analysis was guided by the following questions:
 
-1. What is the overall patient experience performance across hospitals based on HCAHPS scores?
+1. Which areas of patient experience receive the highest and lowest ratings across hospitals?
 
-2. How do patient experience ratings vary across different states and facilities?
+2. What factors contribute to lower medication communication performance?
 
-3. Which states demonstrate the highest and lowest patient star ratings?
+3. Which patient experience areas have the highest negative response rates?
 
-4. How are hospitals distributed across different patient rating categories?
+4. Is there a relationship between survey response rates and overall patient ratings?
 
-5. Which patient experience areas contribute most to positive or negative patient experiences?
+5. Which states demonstrate the highest patient experience ratings?
 
-6. Which areas of healthcare communication show the greatest opportunities for improvement?
+6. Which states have lower patient experience ratings and may require further attention?
 
-7. Is there a relationship between patient survey response rates and overall patient ratings?
+7. How are hospitals distributed across different patient star rating categories?
 
-8. How does survey participation vary across states, and which states record the highest number of completed surveys?
+8. Which states have the highest number of completed patient surveys?
+
 
 ## DATA SOURCE
 
@@ -73,18 +76,24 @@ The cleaned dataset was then used to create pivot tables, pivot charts, and an i
 
 ## ANALYSIS & VISUALIZATION
 
-The dashboard was developed in Excel using Pivot Tables, Pivot Charts, and interactive slicers to analyse hospital patient experience performance.
+The dashboard consists of two pages.
+ Survey Performance Analysis 
 
 
+* Pattern and Response Analysis
 
-### Key Performance Indicators (KPIs)
+  
+### KPI Overview
 
-The dashboard provides an overview of performance through the following metrics:
+The dashboard provides an overview of hospital patient experience performance using HCAHPS survey data. The analysis covers **2,302,474 completed surveys** collected across **4,792 healthcare facilities in 56 states** in US, providing a broad view of patient experiences across different locations.
 
-- Total Facilities
-- Total States
-- Average Patient Star Rating
-- Average HCAHPS Score
-- Average Survey Response Rate
-- Total Completed Surveys
-- Experience Performance Gap
+Overall patient experience performance was assessed using key measures, including an **average patient star rating of 3.27** and an **average survey response rate of 22.95%**. The patient star rating provides an indication of overall patient satisfaction, while the response rate provides context on patient participation across healthcare facilities before exploring differences in patient experience areas, states, and facilities.
+
+### 1. Which areas of patient experience receive the highest and lowest ratings across hospitals?
+
+**Finding:**  
+Nurse communication recorded the highest patient experience score, followed by doctor communication. Medication communication had the lowest score among the measured experience areas.
+
+**Insight:**  
+Patients reported stronger experiences with direct interactions with healthcare staff, while medication-related communication appears to be a weaker area of the overall patient experience.
+
