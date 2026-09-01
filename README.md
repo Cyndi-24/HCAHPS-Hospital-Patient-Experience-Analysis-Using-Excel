@@ -84,7 +84,7 @@ The dashboard consists of two pages.
 
 * Pattern and Response Analysis
 
-![image alt](
+![image alt](https://github.com/Cyndi-24/HCAHPS-Hospital-Patient-Experience-Analysis-Using-Excel/blob/main/Portfolio_Images/page2.png)
   
 ### KPI Overview
 
