@@ -1,5 +1,6 @@
-
 # HCAHPS-Hospital-Patient-Experience-Analysis-Using-Excel
+
+[image alt](https://github.com/Cyndi-24/HCAHPS-Hospital-Patient-Experience-Analysis-Using-Excel/blob/main/Portfolio_Images/image.png)
 
 ## INTRODUCTION
 
