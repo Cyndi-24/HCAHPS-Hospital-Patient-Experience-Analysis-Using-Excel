@@ -80,9 +80,11 @@ The cleaned dataset was then used to create pivot tables, pivot charts, and an i
 The dashboard consists of two pages.
 * Survey Performance Analysis 
 
+![image alt](https://github.com/Cyndi-24/HCAHPS-Hospital-Patient-Experience-Analysis-Using-Excel/blob/main/Portfolio_Images/page1.png)
 
 * Pattern and Response Analysis
 
+![image alt](
   
 ### KPI Overview
 
