@@ -1,6 +1,6 @@
 # HCAHPS-Hospital-Patient-Experience-Analysis-Using-Excel
 
-[image alt](https://github.com/Cyndi-24/HCAHPS-Hospital-Patient-Experience-Analysis-Using-Excel/blob/main/Portfolio_Images/image.png)
+![image alt](https://github.com/Cyndi-24/HCAHPS-Hospital-Patient-Experience-Analysis-Using-Excel/blob/main/Portfolio_Images/image.png)
 
 ## INTRODUCTION
 
@@ -72,6 +72,8 @@ The preparation process involved:
 - Reviewing blank and null values to ensure data consistency.
 
 The cleaned dataset was then used to create pivot tables, pivot charts, and an interactive Excel dashboard.
+
+![image alt](https://github.com/Cyndi-24/HCAHPS-Hospital-Patient-Experience-Analysis-Using-Excel/blob/main/Portfolio_Images/data_cleaning.png)
 
 ## ANALYSIS & VISUALIZATION
 
