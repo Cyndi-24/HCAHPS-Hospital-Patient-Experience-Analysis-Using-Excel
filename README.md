@@ -47,16 +47,6 @@ The dataset contains hospital-level patient experience measures used to analyse 
 - Microsoft Excel
 - Power Query
 
-## SKILLS DEMONSTRATED
-
-- Healthcare data analysis
-- Data cleaning and quality validation
-- Interactive Excel dashboard development
-- Pivot tables and pivot chart creation
-- KPI development and performance analysis
-- Patient experience trend analysis
-- Data storytelling and insight communication
-
 ## DATA PREPARATION
 
 The HCAHPS dataset was prepared using Power Query in Excel to improve data quality and ensure it was suitable for analysis.
