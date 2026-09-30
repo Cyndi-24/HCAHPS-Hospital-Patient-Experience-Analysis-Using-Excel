@@ -37,9 +37,6 @@ This analysis was guided by the following questions:
 ## DATA SOURCE
 
 The dataset used for this analysis was obtained from the Centers for Medicare & Medicaid Services (CMS) Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) survey data.
-
-The HCAHPS survey collects information on patients’ experiences with hospital care, covering areas such as communication, cleanliness, responsiveness, medication information, and overall hospital ratings.
-
 The dataset contains hospital-level patient experience measures used to analyse performance patterns across facilities and states. 
 
 ## TOOLS USED
